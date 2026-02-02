@@ -1,3 +1,8 @@
+// In src/main.rs
+
+mod deck;
+mod solitaire;
+
 fn main() {
-    println!("Hello, world!");
+    // Now you can create a new deck
 }
